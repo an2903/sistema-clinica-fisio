@@ -1,0 +1,22 @@
+/* Exemplo simples de customização */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+.bg-primary {
+    background-color: #20b2aa !important; /* Um tom de verde-água/azul claro, bem de clínica */
+}
+
+.btn-success {
+    background-color: #008080;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #006666;
+}
